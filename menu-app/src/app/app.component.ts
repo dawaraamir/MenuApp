@@ -11,7 +11,7 @@ export class AppComponent {
   inventory = [
     {
       "id": 1,
-      "name":"Protien Shake",
+      "name":"Protein Shake",
       "stock":5,
       "price" : 5.00,
       "image" : 'https://www.bariatriccookery.com/wp-content/uploads/2016/07/Cinnamon-Apple-Spice-Shake.png',
