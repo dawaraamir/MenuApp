@@ -1,0 +1,53 @@
+/* 
+.content {
+background-image: url('https://www.ipfinternational.com/wp-content/uploads/2016/02/bg_about.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+} */
+h1{
+    color: #111; font-family: 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center;
+}
+
+.totalQty {
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+img{
+    max-width: 100px;
+    max-height: 80px;
+}
+
+li{
+    list-style: none;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.featured {
+    background-color: rgba(110, 110, 110, 0.562);
+}
+
+div #footer {
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.stockInfo{
+    text-align: right;
+    color: red;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.totalPrice{
+    text-align: center;
+}
+
+.btn{
+    padding: 0px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#menu {
+    width: 100%;
+}
